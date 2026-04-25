@@ -22,8 +22,8 @@ MyCaart is a responsive and user-friendly e-commerce web application designed to
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Styling:** CSS (Add Bootstrap/Tailwind if used)  
+- **Frontend:** HTML, CSS, JavaScript,ReactJS  
+- **Styling:** CSS 
 - **Deployment:** Netlify  
 
 
