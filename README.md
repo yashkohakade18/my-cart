@@ -18,7 +18,7 @@ MyCaart is a responsive and user-friendly e-commerce web application designed to
 - ⚡ Fast and optimized performance  
 
 ## Home Page :
-![Home](./assets/home.png)
+![Home](home.png)
 
 ## 🛠️ Tech Stack
 
